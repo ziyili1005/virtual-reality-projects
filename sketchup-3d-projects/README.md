@@ -11,8 +11,8 @@
 | 豆腐頭（上課練習） | ![image](https://github.com/user-attachments/assets/4e8178e3-828e-4ef3-b084-646b3f81e03e) |
 | 兒童遊具（上課練習） | ![image](https://github.com/user-attachments/assets/56ea24f1-5569-431e-b5db-e6fff3e543b6) |
 | 中式涼亭（上課練習） | ![image](https://github.com/user-attachments/assets/4006c59a-4bd3-4254-a64a-d87eb14bffb9) |
-| 筆記型電腦（期中作業） | ![image](https://github.com/user-attachments/assets/5e276739-f49e-4ee2-98a7-6440ee3129b1) |
-| 宿舍內部建築（期末作業） | ![image](https://github.com/user-attachments/assets/8a07f3d9-0702-40ce-94ab-d95d5c64f77a) |
+| 筆電（期中作業） | ![image](https://github.com/user-attachments/assets/5e276739-f49e-4ee2-98a7-6440ee3129b1) |
+| 宿舍內部（期末作業） | ![image](https://github.com/user-attachments/assets/8a07f3d9-0702-40ce-94ab-d95d5c64f77a) |
 | 西門紅樓（專案作業） | ![image](https://github.com/user-attachments/assets/844d4938-7a7c-493c-bea8-fe4f94654df2) |
 
 ---
